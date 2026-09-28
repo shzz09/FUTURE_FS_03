@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const PHONE_DISPLAY = "9148586589";
-const WHATSAPP_NUMBER = "9148586589";
-const INSTAGRAM_URL = "https://www.instagram.com/";
+const PHONE_DISPLAY = "9148586279";
+const WHATSAPP_NUMBER = "9148586279";
+const INSTAGRAM_URL = "https://www.instagram.com/moonveill.l9?stkn=MWF5bjRsbHNxOG53aw==";
 const EMAIL = "hello@lumera-beauty.com";
 
 const services = [
